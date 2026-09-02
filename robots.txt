@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://trama-digital.com.ar/sitemap-index.xml
